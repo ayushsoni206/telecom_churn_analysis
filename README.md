@@ -9,3 +9,5 @@ For many incumbent operators, retaining high profitable customers is the number 
  
 
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
+
+** The main goal of this case study is to find factors leading to customer churning and to predict the customer churn proactively before the customers actually churn. Further, we propose that such customers must be provided with some attractive offers or schemes to improve the their experience.**
